@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C-Innovations on Home</title>
+    <link>http://www.c-innovations.de/</link>
+    <description>Recent content in C-Innovations on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language><atom:link href="http://www.c-innovations.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt</title>
+      <link>http://www.c-innovations.de/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.c-innovations.de/kontakt/</guid>
+      <description>C-Innovations UG (haftungsbeschränkt)
+Feldweg 2
+08412 Werdau
+Deutschland</description>
+    </item>
+    
+    <item>
+      <title>Produkte</title>
+      <link>http://www.c-innovations.de/produkte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.c-innovations.de/produkte/</guid>
+      <description>Die Produkte der C-Innovations UG umfassen Entwicklungen mit direkter Wirkung auf Umwelt und Klima
+ ICR - Ignition Core Reactor - Eingesetzt in Verbrennungsmotoren reduziert der ICR Partikel (P), unverbrannte Kohlenwasserstoffe (HC) und Kohlenmonoxid (CO), sowie über eine Kraftstofferparnis auch CO2 Neutralisierung von Stickoxiden Methanolsynthese Grüner Wasserstoff aus Biomasse.  </description>
+    </item>
+    
+  </channel>
+</rss>
